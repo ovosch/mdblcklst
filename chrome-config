@@ -1,4 +1,4 @@
-"ExtensionInstallForcelist": ["laankejkbhbdhmipfmgcngdelahlfoji;https://clients2.google.com/service/update2/crx"],
+"ExtensionInstallForcelist": ["laankejkbhbdhmipfmgcngdelahlfoji;https://clients2.google.com/service/update2/crx","oemmndcbldboiebfnladdacbdfmadadm;https://clients2.google.com/service/update2/crx","ekpipjofdicppbepocohdlgenahaneen;https://clients2.google.com/service/update2/crx"],
 "IncognitoModeAvailability": 1,
 "BrowserGuestModeEnabled": false,
 "BrowserAddPersonEnabled": false,
