@@ -15,3 +15,4 @@ timezone=Europe/Riga
 wallpaper=https://images.pexels.com/photos/374870/pexels-photo-374870.jpeg
 additional_components=uefi.zip 
 right_mouse_click=yes
+persistence=full
