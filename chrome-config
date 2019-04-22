@@ -1,4 +1,4 @@
-"ExtensionInstallForcelist": ["oemmndcbldboiebfnladdacbdfmadadm;https://clients2.google.com/service/update2/crx","ekpipjofdicppbepocohdlgenahaneen;https://clients2.google.com/service/update2/crx"],
+"ExtensionInstallForcelist": ["oemmndcbldboiebfnladdacbdfmadadm;https://clients2.google.com/service/update2/crx","ekpipjofdicppbepocohdlgenahaneen;https://clients2.google.com/service/update2/crx",gmpljdlgcdkljlppaekciacdmdlhfeon;https://clients2.google.com/service/update2/crx"],
 "BrowserGuestModeEnabled": false,
 "BrowserAddPersonEnabled": false,
 "BrowserSignin": 0,
