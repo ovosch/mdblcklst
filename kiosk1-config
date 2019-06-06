@@ -2,8 +2,8 @@ connection=wired
 dhcp=yes
 browser=chrome
 kiosk_config=raw.githubusercontent.com/ovosch/mdblcklst/master/kiosk1-config
-homepage=https://cse.google.com/cse?cx=010141708945875200946:_lnmetd6ddw
-whitelist=cse.google.com gi.org mayoclinic.org rarediseases.org wikipedia.org wiktionary.org googleusercontent.com toggl.com europass.cedefop.europa.eu praktischarzt.de duolingo.com scdn.co ankiweb.net ankuser.net myaccount.google.com office365.com online-stopwatch.com clients6.google.com gstatic.com library1.org live.com microsoftonline.com rsu.lv rsu.edu.lv sharepoint.com windows.net 123apps.com amboss.com booksdescr.org deepl.com medscape.com di.fm dict.cc docs.google.com accounts.google.com accounts.google.lv mail.google.com drive.google.com extract.me gen.lib.rus.ec goethe.de lib1.org libgen.pw linguee.de lingvolive.com nih.gov office.com onenote.com reverso.net sci-hub.tw spotify.com uptodate.com wqqn.net
+homepage=google.com
+whitelist=web-capture.net google.com gi.org mayoclinic.org rarediseases.org wikipedia.org wiktionary.org googleusercontent.com toggl.com europass.cedefop.europa.eu praktischarzt.de duolingo.com scdn.co ankiweb.net ankuser.net myaccount.google.com office365.com online-stopwatch.com clients6.google.com gstatic.com library1.org live.com microsoftonline.com rsu.lv rsu.edu.lv sharepoint.com windows.net 123apps.com amboss.com booksdescr.org deepl.com medscape.com di.fm dict.cc docs.google.com accounts.google.com accounts.google.lv mail.google.com drive.google.com extract.me gen.lib.rus.ec goethe.de lib1.org libgen.pw linguee.de lingvolive.com nih.gov office.com onenote.com reverso.net sci-hub.tw spotify.com uptodate.com wqqn.net
 enable_file_protocol=yes
 primary_keyboard_layout=lv
 secondary_keyboard_layout=ru
@@ -18,3 +18,4 @@ persistence=full
 paper_size=A4
 printer_connection=socket://192.168.1.1:9100
 printer_model=Canon MP250 series
+disable_private_mode=no
