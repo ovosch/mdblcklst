@@ -1,0 +1,84 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#instablock
+127.0.0.1 instagram.frix3-1.fna.fbcdn.net
+127.0.0.1 scontent-amt2-1.cdninstagram.com
+127.0.0.1 scontent-sea1-1.cdninstagram.com
+127.0.0.1 scontent-iad3-1.cdninstagram.com
+127.0.0.1 scontent-frt3-1.cdninstagram.com
+127.0.0.1 scontent-frt3-2.cdninstagram.com
+127.0.0.1 scontent-frx5-1.cdninstagram.com
+127.0.0.1 scontent-ams3-1.cdninstagram.com
+127.0.0.1 scontent-lht6-1.cdninstagram.com
+127.0.0.1 scontent-lga3-1.cdninstagram.com
+127.0.0.1 scontent-yyz1-1.cdninstagram.com
+127.0.0.1 scontent-lhr3-1.cdninstagram.com
+127.0.0.1 scontent-mia3-2.cdninstagram.com
+127.0.0.1 scontent-dfw5-1.cdninstagram.com
+127.0.0.1 scontent-lax3-1.cdninstagram.com
+127.0.0.1 instagram.fham3-1.fna.fbcdn.net
+127.0.0.1 instagram.fprg2-1.fna.fbcdn.net
+127.0.0.1 scontent-cdg2-1.cdninstagram.com
+127.0.0.1 instagram.frix2-1.fna.fbcdn.net
+127.0.0.1 scontent-syd2-1.cdninstagram.com
+127.0.0.1 instagram.fymy1-1.fna.fbcdn.net
+127.0.0.1 cameleo.xyz
+127.0.0.1 www.cameleo.xyz
+127.0.0.1 0s.o53xo.nfxhg5dbm5zgc3jomnxw2.cmle.ru
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 croxyproxy.com
+127.0.0.1 awsbox.xyz
+127.0.0.1 spottyhub.site
+127.0.0.1 sourcelab.icu
+127.0.0.1 bluecdn.info
+127.0.0.1 www.croxyproxy.com
+127.0.0.1 www.awsbox.xyz
+127.0.0.1 www.spottyhub.site
+127.0.0.1 www.sourcelab.icu
+127.0.0.1 www.bluecdn.info
+127.0.0.1 sss.llzzz.jllqvwdjudp.llfrp.randyz.xyz
+127.0.0.1 viaproxy.net
+127.0.0.1 www.viaproxy.net
+127.0.0.1 sss.www.instagram.com.ytway.xyz
+127.0.0.1 pingway.ru
+127.0.0.1 sss.jemrwxekveq.legsq.winterb.xyz
+127.0.0.1 0s.o53xo.nfxhg5dbm5zgc3jomnxw2.nblz.ru
+127.0.0.1 sss.lcyyy.jckpuvcitco.lceqo.1.gsr.anonimizing.com
+127.0.0.1 anonim.in.ua
+127.0.0.1 www.anonim.in.ua
+127.0.0.1 sss.lnbbb.jnnsxyflwfr.lnhtr.winterc.xyz
+127.0.0.1 instaway.ru
+127.0.0.1 www.instaway.ru
+127.0.0.1 noblockme.ru
+127.0.0.1 www.noblockme.ru
+127.0.0.1 scalelax.pro
+127.0.0.1 tjournal.ru
+127.0.0.1 www.tjournal.ru
+127.0.0.1 toopics.com
+127.0.0.1 www.toopics.com
+127.0.0.1 scontent-sjc3-1.cdninstagram.com
+127.0.0.1 scontent-ort2-1.cdninstagram.com
+127.0.0.1 scontent.cdninstagram.com
+127.0.0.1 instagram.fhen1-1.fna.fbcdn.net
+127.0.0.1 scontent-atl3-1.cdninstagram.com
