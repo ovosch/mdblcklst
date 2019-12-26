@@ -234,7 +234,8 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 
 // 2050 rules:
 var bad_da_host_JSON = { "instagram.com": null,
-"delfi.lv": null };
+"delfi.lv": null,
+"tjournal.ru": null };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
 
 // 9 rules as an efficient NFA RegExp:
