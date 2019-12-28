@@ -254,7 +254,7 @@ var bad_da_host_JSON = { "instagram.com": null,
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
 
 // 9 rules as an efficient NFA RegExp:
-var bad_da_host_RegExp = /^(?:[\w-]+\.)*?(?:tracker(?=([\s\S]*?\.richcasino\.com))\1|imgadult\.com(?=([\s\S]*?))\2|imgtaxi\.com(?=([\s\S]*?))\3|imgwallet\.com(?=([\s\S]*?))\4|images\.(?=([\s\S]*?\.criteo\.net))\5|analytics\-beacon\-(?=([\s\S]*?\.amazonaws\.com))\6|imgdrive\.net(?=([\s\S]*?))\7|rcm(?=([\s\S]*?\.amazon\.))\8|stats\-(?=([\s\S]*?\.p2pnow\.ru))\9)/i;
+var bad_da_host_RegExp = /^(?:[\w-]+\.)*?(?:tracker(?=([\s\S]*?\.richcasino\.com))\1|imgadult\.com(?=([\s\S]*?))\2|imgtaxi\.com(?=([\s\S]*?))\3|imgwallet\.com(?=([\s\S]*?))\4|images\.(?=([\s\S]*?\.criteo\.net))\5|analytics\-beacon\-(?=([\s\S]*?\.amazonaws\.com))\6|imgdrive\.net(?=([\s\S]*?))\7|rcm(?=([\s\S]*?\.amazon\.))\8|stats\-(?=([\s\S]*?\.p2pnow\.ru))\9|instagram\.*\.fna\.fbcdn\.net)/i;
 var bad_da_host_regex_flag = 9 > 0 ? true : false;  // test for non-zero number of rules
 
 // 613 rules:
