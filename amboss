@@ -1,1 +1,1 @@
-javascript:(function(){var%20divsToHide=document.getElementsByClassName("additional");for(var%20i=0;i<divsToHide.length;i++){if(divsToHide.style.display==="none"){divsToHide.style.display="block";}else{divsToHide.style.display="none";}}})()
+javascript:(function(){var%20divsToHide=document.getElementsByClassName("additional");for(var%20i=0;i<divsToHide.length;i++){if(divsToHide[i].style.display==="none"){divsToHide[i].style.display="block";}else{divsToHide[i].style.display="none";}}})()
