@@ -1,0 +1,1 @@
+javascript:(function(){var%20divsToHide=document.getElementsByClassName("additional");for(var%20i=0;i<divsToHide.length;i++){if%20(divsToHide.style.display==="none"){divsToHide.style.display="block";}else{divsToHide.style.display="none";}}})()
