@@ -1,5 +1,2 @@
-var appBanners = document.getElementsByClassName('additional');
 
-for (var i = 0; i < appBanners.length; i ++) {
-    appBanners[i].style.display = 'none';
-}
+javascript:(function(){var divsToHide=document.getElementsByClassName("additional");for(var i=0;i<divsToHide.length;i++){divsToHide[i].style.display="none";}})()
