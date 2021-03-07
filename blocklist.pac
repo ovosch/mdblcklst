@@ -234,8 +234,8 @@ var good_da_host_exceptions_exact_flag = 39 > 0 ? true : false;  // test for non
 
 // 2050 rules:
 var bad_da_host_JSON = { "instagram.com": null,
-//"delfi.lv": null,
-//"tjournal.ru": null,
+"delfi.lv": null,
+"tjournal.ru": null,
 "cdninstagram.com": null,
 //"fbcdn.net": null,
 "cameleo.xyz": null,
@@ -253,11 +253,11 @@ var bad_da_host_JSON = { "instagram.com": null,
 "instagram.com": null,
 "randyx.club": null,
 "randyx.top": null,
-"storyinsta.com": null };
-//"varlamov.ru": null,
-//"meduza.io": null,
-//"mysku.ru": null,
-//"twitter.com": null };
+"storyinsta.com": null,
+"varlamov.ru": null,
+"meduza.io": null,
+"mysku.ru": null,
+"twitter.com": null };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
 
 // 9 rules as an efficient NFA RegExp:
