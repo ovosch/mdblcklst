@@ -281,6 +281,7 @@ var bad_da_host_JSON = { "instagram.com": null,
 "genmirror.com": null,
 "itiqua.today": null,
 "youtubeunblocked.live": null,
+"youtube.com": null,
 "twitter.com": null };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
 
