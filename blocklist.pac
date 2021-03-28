@@ -282,6 +282,10 @@ var bad_da_host_JSON = { "instagram.com": null,
 "itiqua.today": null,
 "youtubeunblocked.live": null,
 "youtube.com": null,
+"googlevideo.com": null,
+"yandex.com": null,
+"yandex.com": null,
+"yandex.ru": null,
 "twitter.com": null };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
 
