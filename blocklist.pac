@@ -284,12 +284,13 @@ var bad_da_host_JSON = { "instagram.com": null,
 "youtube.com": null,
 "googlevideo.com": null,
 "yandex.com": null,
-"yandex.com": null,
 "yandex.ru": null,
 "smihub.com": null,
 "dumpor.com": null,
 "exonip.de": null,
-"twitter.com": null };
+"twitter.com": null,
+"greatfon.com": null,
+"storiesig.info": null, };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
 
 // 9 rules as an efficient NFA RegExp:
