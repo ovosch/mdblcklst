@@ -290,6 +290,7 @@ var bad_da_host_JSON = { "instagram.com": null,
 "exonip.de": null,
 "twitter.com": null,
 "greatfon.com": null,
+"imginn.com": null,                        
 "storiesig.info": null, };
 var bad_da_host_exact_flag = 2050 > 0 ? true : false;  // test for non-zero number of rules
 
